@@ -9,7 +9,7 @@ params:
   base_font: serif
   header:
     title: DIY
-    logo: images/uio-carpentry-logo-small.png
+    logo: images/uio-carpentry-logo-circle.png
     has_primary_nav: true
     primary_nav_links:
       - label: Features
