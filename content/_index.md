@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/uio-carpentry-logo.png
+    image: images/about-2.jpg
     media_position: left
     media_width: fifty
     align: left
