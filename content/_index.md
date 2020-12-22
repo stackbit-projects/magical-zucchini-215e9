@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/spectacular-paprika.png
+    image: images/uio-carpentry-logo.png
     media_position: left
     media_width: fifty
     align: left
