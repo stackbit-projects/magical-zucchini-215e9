@@ -46,7 +46,7 @@ params:
     anncmnt_id: new-features
   footer:
     logo: images/blue-tomato.png
-    has_primary_nav: false
+    has_primary_nav: true
     primary_nav_title: Company
     primary_nav_links:
       - label: About
