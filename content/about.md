@@ -23,7 +23,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/about-2.jpg
+        image: images/bold/hero.svg
         media_position: left
         media_width: fifty
       - title: Section Title Three
