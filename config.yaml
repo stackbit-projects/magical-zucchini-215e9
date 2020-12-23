@@ -15,7 +15,7 @@ params:
       - label: Features
         url: /features
         style: link
-      - label: Pricing
+      - label: Workshops
         url: /pricing
         style: link
       - label: About
