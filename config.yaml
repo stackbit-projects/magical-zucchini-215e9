@@ -21,7 +21,7 @@ params:
       - label: About
         url: /about
         style: link
-      - label: Blog
+      - label: Study Group
         url: /blog
         style: link
       - label: Style Guide
