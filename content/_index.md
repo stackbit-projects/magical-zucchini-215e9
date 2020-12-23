@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/bold/icon-3.svg
+    image: images/bold/feature-3.svg
     media_position: left
     media_width: fifty
     align: left
