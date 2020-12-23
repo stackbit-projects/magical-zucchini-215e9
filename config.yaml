@@ -67,7 +67,7 @@ params:
       - label: Tutorials
         url: /blog/category/tutorials
         style: link
-    has_tertiary_nav: false
+    has_tertiary_nav: true
     tertiary_nav_title: Legal
     tertiary_nav_links:
       - label: Terms & Conditions
